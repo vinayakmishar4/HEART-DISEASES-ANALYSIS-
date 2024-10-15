@@ -6,8 +6,6 @@ This project explores a heart disease dataset using **Exploratory Data Analysis 
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 
 ## Overview
