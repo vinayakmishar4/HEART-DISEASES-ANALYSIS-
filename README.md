@@ -33,6 +33,4 @@ The dataset used is `heart.csv`. It contains several health parameters such as:
 ## Results
 
 The analysis provides insights such as:
--Correlation between cholesterol levels and heart disease.
--Impact of exercise-induced angina on heart health.
--Distribution of age groups and their association with heart disease.
+-Correlation between cholesterol levels and heart disease.Impact of exercise-induced angina on heart health.Distribution of age groups and their association with heart disease.
